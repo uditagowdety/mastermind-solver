@@ -6,6 +6,8 @@ This project implements a genetic algorithm to solve the classic Mastermind game
 ## Project Goal
 To showcase how genetic algorithms can effectively solve problems involving optimization and pattern matching in a simulated environment.
 
+![Mastermind Solver](https://github.com/user-attachments/assets/bda6e1a4-7102-4140-ae6d-0c3fce4fb26f)
+
 ## Features
 - **Color Options**: Includes six possible colors represented by emojis: ⬛, 🟥, 🟨, 🟩, 🟪, 🟫.
 - **Genetic Algorithm**: Uses population initialization, fitness evaluation, selection, crossover, and mutation to iteratively improve guesses.
